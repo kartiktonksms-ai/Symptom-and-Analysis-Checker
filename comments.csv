@@ -1,0 +1,51 @@
+Comment,Sentiment
+I had fever for two days but medicines worked quickly,Positive
+Doctor was very supportive and treatment was effective,Positive
+"Recovered from cough in just 3 days, very happy",Positive
+Medicine relieved my headache instantly,Positive
+Fever reduced after taking prescribed antibiotics,Positive
+Doctor explained everything clearly and I recovered well,Positive
+"Very good consultation, symptoms gone in a week",Positive
+Cold and cough were mild and handled easily,Positive
+My stomach pain disappeared after medication,Positive
+Happy with the treatment for my throat pain,Positive
+Felt better after one dose of medicine,Positive
+Recovery from fever was smooth and fast,Positive
+Doctor guided me well during chest infection,Positive
+Treatment was simple and effective for cough,Positive
+Symptoms were mild and I got better soon,Positive
+"Fever lasted more than 5 days, very uncomfortable",Negative
+"Severe chest pain and weakness, very hard to manage",Negative
+"Doctor didn’t explain properly, still not feeling well",Negative
+Stomach pain became worse even after medication,Negative
+"Terrible headache, couldn’t concentrate at all",Negative
+Fever and body weakness made me very tired,Negative
+Did not recover even after taking medicines,Negative
+"Very slow recovery from cough, not satisfied",Negative
+"Pain in throat continued for weeks, frustrating",Negative
+"Severe flu symptoms, felt extremely weak",Negative
+"Medicine caused nausea, bad experience",Negative
+Doctor consultation was rushed and unhelpful,Negative
+Still suffering from cold and cough,Negative
+"Antibiotics didn’t work, fever persisted",Negative
+Health condition worsened after treatment,Negative
+Had mild cough and took rest at home,Neutral
+"Visited doctor for checkup, symptoms were average",Neutral
+"Fever was neither severe nor mild, just moderate",Neutral
+Medicine reduced pain slowly but steadily,Neutral
+"Doctor’s advice was okay, nothing special",Neutral
+Cold symptoms were manageable with home remedies,Neutral
+"Normal headache, felt better after sleep",Neutral
+Treatment took some time but worked eventually,Neutral
+"Symptoms were tolerable, nothing major",Neutral
+"General consultation, normal experience",Neutral
+Body pain was there but reduced in 2 days,Neutral
+"Visited clinic, got average support",Neutral
+"Moderate fever, recovered gradually",Neutral
+"Doctor prescribed normal medicine, it worked fine",Neutral
+"Throat pain was okay, neither too bad nor too good",Neutral
+"Fever and cough under control, nothing serious",Neutral
+"Headache was on and off, nothing critical",Neutral
+Medicine gave relief but took time,Neutral
+"Consultation was average, neither good nor bad",Neutral
+"Symptoms were manageable, recovery was steady",Neutral
